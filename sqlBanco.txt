@@ -1,0 +1,18 @@
+CREATE DATABASE dbtickets;
+
+CREATE TABLE funcionarios (
+ 	 id SERIAL PRIMARY KEY,
+     nome VARCHAR(255) NOT NULL,
+     cpf VARCHAR(14) NOT NULL UNIQUE,
+     status VARCHAR(2) NOT NULL CHECK (status IN ('A', 'I')),
+     data_alteracao TEXT   
+);
+
+CREATE TABLE tickets (
+	 id SERIAL PRIMARY KEY,
+	 funcionarioId INT NOT NULL,
+	 quantidade INTEGER NOT NULL,
+	 status VARCHAR(2) NOT NULL CHECK (status IN ('A', 'I')),
+	 data_entrega TEXT,
+	 FOREIGN KEY (funcionarioId) REFERENCES funcionarios(id)	 
+);

@@ -1,0 +1,71 @@
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Gerenciamento de tickets.exe
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Gerenciamento de tickets.deps.json
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Gerenciamento de tickets.runtimeconfig.json
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Gerenciamento de tickets.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Gerenciamento de tickets.pdb
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.csproj.GenerateResource.cache
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.AssemblyInfoInputs.cache
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.AssemblyInfo.cs
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.csproj.CoreCompileInputs.cache
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\refint\Gerenciamento de tickets.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.pdb
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.genruntimeconfig.cache
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\ref\Gerenciamento de tickets.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento de tickets.csproj.AssemblyReference.cache
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento_de_tickets.br.com.projeto.view.FrmFuncionarios.resources
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerencia.3EC03AE1.Up2Date
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Gerenciamento de tickets.dll.config
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento_de_tickets.br.com.projeto.view.FrmTickets.resources
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento_de_tickets.FormMenu.resources
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\obj\Debug\net8.0-windows\Gerenciamento_de_tickets.br.com.projeto.view.FrmRelatorio.resources
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Darlon Franklin\Documents\Gerenciamento de tickets\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll

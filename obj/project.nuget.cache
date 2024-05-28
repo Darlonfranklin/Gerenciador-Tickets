@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "TvwAsik6PhpYcVlA9S2KVRurE5qfl83v3h+akfx4h83Mo4vHpsruSh5SrD00z3Suo6ZyFGIhl7pGWy8dZ0GQuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciamento de tickets\\Gerenciamento de tickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darlon Franklin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Darlon Franklin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Darlon Franklin\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1620.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1620.0.nupkg.sha512",
+    "C:\\Users\\Darlon Franklin\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512",
+    "C:\\Users\\Darlon Franklin\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1620.0 depende de Microsoft.SqlServer.Types (>= 14.0.0), mas Microsoft.SqlServer.Types 14.0.0 não foi encontrado. A melhor correspondência aproximada de Microsoft.SqlServer.Types 14.0.314.76 foi resolvida.",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1620.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.ReportingServices.ReportViewerControl.Winforms",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.SqlServer.Types 14.0.314.76' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
