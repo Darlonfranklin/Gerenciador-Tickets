@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciamento de tickets\\Gerenciamento de tickets.csproj",
+      "projectUniqueName": "C:\\Users\\Darlon Franklin\\Desktop\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj",
       "projectName": "Gerenciamento de tickets",
-      "projectPath": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciamento de tickets\\Gerenciamento de tickets.csproj",
+      "projectPath": "C:\\Users\\Darlon Franklin\\Desktop\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj",
       "packagesPath": "C:\\Users\\Darlon Franklin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciamento de tickets\\obj\\",
+      "outputPath": "C:\\Users\\Darlon Franklin\\Desktop\\Gerenciador-Tickets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

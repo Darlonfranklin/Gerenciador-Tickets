@@ -91,20 +91,12 @@ namespace Gerenciamento_de_tickets.br.com.projeto.view
             bool funcionario = (string.IsNullOrWhiteSpace(comboFuncionario.Text));
             bool quantidade = (string.IsNullOrWhiteSpace(textQuantidade.Text));
             bool status = (string.IsNullOrWhiteSpace(comboStatus.Text));
-            bool valida_status = comboStatus.SelectedItem != null && comboStatus.SelectedItem.ToString() == "I";
             var validarCampos = funcionario || quantidade || status;
 
             if (validarCampos)
             {
                 MessageBox.Show("Todos os campos são obrigatórios!", "Atenção!",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-
-            if (valida_status)
-            {
-                MessageBox.Show("Não é permitido salvar como 'Inativo'. Novo cadastro somente 'Ativo'", "Atenção!",
-                    MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
