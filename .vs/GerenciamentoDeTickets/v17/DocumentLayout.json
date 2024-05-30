@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE2621F-6151-4DDE-8168-4CA2983EDF6B}|GerenciamentoDeTickets.csproj|c:\\users\\darlon franklin\\documents\\gerenciador-tickets\\br.com.projeto.view\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE2621F-6151-4DDE-8168-4CA2983EDF6B}|GerenciamentoDeTickets.csproj|solutionrelative:br.com.projeto.view\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE2621F-6151-4DDE-8168-4CA2983EDF6B}|GerenciamentoDeTickets.csproj|c:\\users\\darlon franklin\\documents\\gerenciador-tickets\\br.com.projeto.view\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECE2621F-6151-4DDE-8168-4CA2983EDF6B}|GerenciamentoDeTickets.csproj|solutionrelative:br.com.projeto.view\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmFuncionarios.cs",
+              "DocumentMoniker": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\br.com.projeto.view\\FrmFuncionarios.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\FrmFuncionarios.cs",
+              "ToolTip": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\br.com.projeto.view\\FrmFuncionarios.cs",
+              "RelativeToolTip": "br.com.projeto.view\\FrmFuncionarios.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:30:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmFuncionarios.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\br.com.projeto.view\\FrmFuncionarios.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\FrmFuncionarios.cs",
+              "ToolTip": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\br.com.projeto.view\\FrmFuncionarios.cs [Projeto]",
+              "RelativeToolTip": "br.com.projeto.view\\FrmFuncionarios.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:30:21.988Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
