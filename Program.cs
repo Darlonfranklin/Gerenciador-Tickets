@@ -1,5 +1,3 @@
-using Gerenciamento_de_tickets.br.com.projeto.view;
-
 namespace Gerenciamento_de_tickets
 {
     internal static class Program

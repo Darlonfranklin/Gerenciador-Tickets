@@ -9,10 +9,13 @@ namespace Gerenciamento_de_tickets.br.com.projeto.dao
     {
         private readonly string conexao;
 
+       
         public FuncionarioDAO()
         {
             this.conexao = new ConnectionFactory().GetConnection().ConnectionString;
         }
+
+        public FuncionarioDAO(ConnectionFactory mockConnectionFactory) { }
 
         NpgsqlConnection? con = null;
 

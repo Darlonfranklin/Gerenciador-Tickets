@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Gerenciamento_de_tickets
-build_property.ProjectDir = C:\Users\Darlon Franklin\Desktop\Gerenciador-Tickets\
+build_property.ProjectDir = C:\Users\Darlon Franklin\Documents\Gerenciador-Tickets\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

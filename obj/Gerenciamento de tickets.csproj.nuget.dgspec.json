@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darlon Franklin\\Desktop\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj": {}
+    "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darlon Franklin\\Desktop\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj": {
+    "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darlon Franklin\\Desktop\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj",
+        "projectUniqueName": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj",
         "projectName": "Gerenciamento de tickets",
-        "projectPath": "C:\\Users\\Darlon Franklin\\Desktop\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj",
+        "projectPath": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\Gerenciamento de tickets.csproj",
         "packagesPath": "C:\\Users\\Darlon Franklin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darlon Franklin\\Desktop\\Gerenciador-Tickets\\obj\\",
+        "outputPath": "C:\\Users\\Darlon Franklin\\Documents\\Gerenciador-Tickets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

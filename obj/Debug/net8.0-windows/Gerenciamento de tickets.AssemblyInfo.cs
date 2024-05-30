@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gerenciamento de tickets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29bb13ed7085ccfceef1778fa5a41e08f83f1292")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e989e130aa84c1f99acd3ed51783d7b58f14ceb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gerenciamento de tickets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gerenciamento de tickets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
